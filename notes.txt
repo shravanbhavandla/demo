@@ -1,0 +1,4 @@
+types of function:
+1. named function
+2. ananymus function
+3. function expression
