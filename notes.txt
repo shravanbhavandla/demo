@@ -2,3 +2,8 @@ types of function:
 1. named function
 2. ananymus function
 3. function expression
+Arrow function
+callback function- call back is a function which is passsed as a value/arguments another function
+immediate invoke function
+higher order function- higher order function is a function which accepts the another function as a value/argument to its parameter.
+closure- closure is a memory created when functions bundled together by giving accesability to the innermost function to access the variability of outermost function. 
