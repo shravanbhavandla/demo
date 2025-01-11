@@ -1,0 +1,16 @@
+{
+    "users": {
+        {
+            "name":"shravan",
+            "age":"25"
+        }
+        {
+            "name":"kumar",
+            "age":"24"
+        }
+        {
+            "name":"bhavandla",
+            "age":"sunny"
+        }
+    }
+}

@@ -7,3 +7,40 @@ callback function- call back is a function which is passsed as a value/arguments
 immediate invoke function
 higher order function- higher order function is a function which accepts the another function as a value/argument to its parameter.
 closure- closure is a memory created when functions bundled together by giving accesability to the innermost function to access the variability of outermost function. 
+closure is a memory which gives the accessibility to access the variables 
+
+
+Array:-
+******************
+ - collection of ityems or values.
+ - array can store homogenous values  / and heterogenous values.
+ - syntax :- [] indicates it is an array.
+ - ex :- 
+ Arrays can store multiple values in one object
+
+ map and foreach difference:
+ map:- it is used to iterate the values of an array
+
+
+
+
+
+ methods in array:
+ **************************
+ push(), pop, unsift, reversae, join()
+
+ what is object?
+ -object is as entity which is used to store values in the form  of key and value pairs.
+ - object is an physical entity whiuch is having states(propertiesd) and behaviours(method)
+
+ syntax :- let obj = {}; without any method
+
+ notes:- object based lanuage + OOPs 
+
+ ex :- let obj ={
+    name:"Sam",
+    age: 25
+        }
+
+json:-
+
