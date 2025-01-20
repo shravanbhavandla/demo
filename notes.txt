@@ -44,3 +44,22 @@ Array:-
 
 json:-
 
+json is a lightweight 
+
+
+web storage
+***************
+- it can sytore the data inside the browser.
+- upto 10MB of data cane be stored.
+
+
+1. local storage:- it is a permanent data storage.
+                - it can store upto 10MB.
+                local storage.setItem("key" , "value")
+                local storage.removeItem("key")
+                local storage.get("key")
+                localstorage.clear("key")
+2. session storage:- it iis temporary data storage.
+                    - it can store upto 5MB of data.
+
+Note:- javascript is a Synchronous (single threaded language).
