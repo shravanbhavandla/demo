@@ -63,3 +63,26 @@ web storage
                     - it can store upto 5MB of data.
 
 Note:- javascript is a Synchronous (single threaded language).
+
+Asynchronous :- making javascript to work multiple work simultaneously.
+
+1. setTimeout():- it is web api used to perform Asynchronous operation in certain timeout.
+        syntx:- setTimeout(callback , timeout);
+
+2. setInterval():- it is a web api used to perform Async operations for 
+    syntax:- setInterval(callbackfn , timeinterval);
+
+3. promise(es6 feature):-  it is an object which represents eventual completion or failures of Asynchronous operations.
+        states of promise:
+        1. pending:- still pending
+        2. fulfilled:-successfully completed 
+        3. rejected:- failures
+syntax: let p = new promise((resolve , reject)=>{});
+
+-for handling the promise we have a instance methods,
+            1. then():- it is used to habdle successful data.
+            2. catch():- it is used to handle errors.
+            3. finally()
+
+4. Async & await
+5. 
