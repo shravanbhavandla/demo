@@ -82,7 +82,7 @@ syntax: let p = new promise((resolve , reject)=>{});
 -for handling the promise we have a instance methods,
             1. then():- it is used to habdle successful data.
             2. catch():- it is used to handle errors.
-            3. finally()
+            3. finally():- finally will execute both success and failure once promise operations.
 
 4. Async & await
 5. 
