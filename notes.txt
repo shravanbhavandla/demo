@@ -84,5 +84,24 @@ syntax: let p = new promise((resolve , reject)=>{});
             2. catch():- it is used to handle errors.
             3. finally():- finally will execute both success and failure once promise operations.
 
-4. Async & await
-5. 
+4. Async & await:- 
+async:- this keyword makes Synchronous as Asynchronousand strat to execute the promise.
+wait:- this keyword makes the function
+
+DOM:- Document Object Model
+***********************************************
+what is DOM
+-dom is a web api used to manipulate the html content.
+- dom is used to add, remove , update the content inside the html document.
+
+methods of dom:-
+**************************************************
+1. document.getElementById(""):- this method to target the html element based on "id" attribute value.
+                                - with id attribute we can select only one element(unique element)
+
+2. document.getlementByClassName(""):- this method is used to target 
+3.document.getElementByTagName("");
+4.document.getElementByName("");
+
+
+innertext:- it is aproperty 
