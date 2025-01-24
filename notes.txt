@@ -105,3 +105,12 @@ methods of dom:-
 
 
 innertext:- it is aproperty 
+
+Events in javascript:-
+*********************************************
+- events are noting but an action to perform on html elements.
+
+- in the events we have click events , mouse events, key events.
+click events :- onclick, ondclick, onsubmit, onchange
+mouse events:- onmouseover, onmouseleave
+key events:- keypress , keydown , keyup
