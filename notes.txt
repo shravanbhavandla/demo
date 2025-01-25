@@ -114,3 +114,10 @@ Events in javascript:-
 click events :- onclick, ondclick, onsubmit, onchange
 mouse events:- onmouseover, onmouseleave
 key events:- keypress , keydown , keyup
+
+creation of elements dynamicallyfrom javascript:-
+******************************************************************
+- to create an html element in javascript we use a method called as 
+        "document.create("tag name")"
+
+- in js , we can create a element , we can add a attribute from js

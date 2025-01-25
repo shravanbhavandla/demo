@@ -51,4 +51,18 @@
 //     console.log("button is clicked 2 times");
 // })
 
-let btn = document.getElementById("btn");
+// let btn = document.getElementById("btn");
+
+//!
+
+let bgcolor = document.querySelectorAll(".bgcolor");
+[...bgcolor].map((element)=>{
+    element.addEventListener("mouseover",()=>{
+        //console.log(element.innertext);
+        element.computedStyleMap.backgroundColor=element.innerText;
+    });
+
+    element.addEventListener("mouseleave",()=>{
+        element.computedStyleMap.backgroundColor="transparent";
+    })
+})
