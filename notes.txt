@@ -121,3 +121,6 @@ creation of elements dynamicallyfrom javascript:-
         "document.create("tag name")"
 
 - in js , we can create a element , we can add a attribute from js
+
+what is action :- once submitted form 
+diif b/w uri and url
