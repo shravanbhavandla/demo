@@ -76,4 +76,4 @@ form.addEventListener("submit", event=>{
     for(let i=0;i<gen.clientHeight;i++){
         
     }
-})
+}) 

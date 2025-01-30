@@ -39,16 +39,7 @@ const employees = [
             area: 'RNR Nagar'
         }
     },
-    {
-        id: 5,
-        name: 'Kumar',
-        company: 'Wipro',
-        salary: 60000,
-        address: {
-            city: 'Hyderabad',
-            area: 'RNR Nagar'
-        }
-    },
+    
 ];
 
 function addRowsToTable(employees) {

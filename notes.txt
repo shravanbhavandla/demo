@@ -124,3 +124,9 @@ creation of elements dynamicallyfrom javascript:-
 
 what is action :- once submitted form 
 diif b/w uri and url
+
+
+
+question:
+**********************************
+create a signup form that contains username(empty), email@,(empty), password(should be 6) and confirm password, once you click on submit button,a alert sahould be popped up on your screen "form us submitted successfully" if and only if all details are correct.
